@@ -1,2 +1,2 @@
 # vincechess
-a game of chess is like a sword fight
+A game of chess is like a sword fight.
